@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-950: #0a1f38;
+  --color-navy-900: #0d2846;
+  --color-navy-800: #12345c;
+  --color-navy-700: #1a4272;
+  --color-red-600: #c8202b;
+  --color-red-700: #a8181f;
+  --color-green-600: #2e9e4f;
+  --color-ink-700: #3a4a5c;
+  --color-ink-500: #6b7d8f;
+
+  --font-display: "Poppins", "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-navy-950);
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+}
