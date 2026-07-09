@@ -15,7 +15,7 @@ export default function Topbar() {
           </a>
           <span className="flex items-center gap-2">
             <FaMapMarkerAlt className="text-red-600" size={12} />
-            Number 3, Unity Zone10, Oloungogo, Ado Ekiti.
+            Number 3, Unity Zone10, Olounsogo, Ado Ekiti.
           </span>
         </div>
         <div className="flex items-center gap-2">

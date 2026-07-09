@@ -94,7 +94,7 @@ export default function Footer() {
             </li>
             <li className="flex items-start gap-2">
               <FaMapMarkerAlt className="text-red-600 mt-0.5" size={12} />
-              Number 3, Unity Zone10, Oloungogo, Ado Ekiti.
+              Number 3, Unity Zone10, Olounsogo, Ado Ekiti.
             </li>
           </ul>
         </div>

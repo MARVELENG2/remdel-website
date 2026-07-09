@@ -44,7 +44,7 @@ export default function CtaStrip() {
               <span className="text-sm text-navy-950">
                 Number 3, Unity Zone10,
                 <br />
-                <span className="text-xs text-ink-500">Oloungogo, Ado Ekiti.</span>
+                <span className="text-xs text-ink-500">Olounsogo, Ado Ekiti.</span>
               </span>
             </div>
           </div>
