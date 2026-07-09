@@ -12,7 +12,6 @@ export default function About() {
   return (
     <section id="about" className="bg-white py-14 md:py-20">
       <div className="max-w-7xl mx-auto px-4 md:px-6 grid md:grid-cols-2 gap-10 items-center">
-        {/* Image */}
         <div className="relative">
           <img
             src={aboutImage}
@@ -28,7 +27,6 @@ export default function About() {
           </div>
         </div>
 
-        {/* Text */}
         <div>
           <p className="text-red-600 font-semibold text-sm tracking-wide">ABOUT REMDEL</p>
           <h2 className="font-display font-bold text-2xl md:text-4xl text-navy-950 mt-2 leading-snug">

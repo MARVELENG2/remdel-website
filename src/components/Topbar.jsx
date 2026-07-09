@@ -19,10 +19,10 @@ export default function Topbar() {
           </span>
         </div>
         <div className="flex items-center gap-2">
-          {[FaFacebookF, FaInstagram, FaLinkedinIn].map((Icon, i) => (
+          {[FaFacebookF, FaInstagram, FaLinkedinIn,].map((Icon, i) => (
             <a
               key={i}
-              href="#"
+              href="https://wa.me/2348034988361?text=Hello%20REMDEL%2C%20I%27d%20like%20to%20request%20a%20quote%20for%20a%20project.%20From%20your%20website."
               aria-label="social link"
               className="w-7 h-7 rounded-full border border-white/30 flex items-center justify-center hover:bg-white/10 transition-colors"
             >
